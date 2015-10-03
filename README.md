@@ -1,4 +1,4 @@
-# Matlab-Ground-penetrating-Radar-Analysis
+# Matlab-Ground-Penetrating-Radar-Analysis
 This project dedicated to research in analyzing signal genereated from GPR device in order to find hole under ground
 
 Abount GPR: https://en.wikipedia.org/wiki/Ground-penetrating_radar
