@@ -1,5 +1,5 @@
 %#####################################################%
-%Copy rights Sivarat Malapet 2015. All rights reserved%
+%Copyright Sivarat Malapet 2015. All rights reserved%
 %#####################################################%
 %Read Input of Frame1 and Frame2 from file
 %Ex. d:\t1.txt, d:\t2.txt, d:\t9.txt
