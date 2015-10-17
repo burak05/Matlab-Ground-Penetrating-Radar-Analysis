@@ -1,5 +1,5 @@
 %#####################################################%
-%Copy rights Sivarat Malapet 2015. All rights reserved%
+%Copyright Sivarat Malapet 2015. All rights reserved%
 %#####################################################%
 %Read Input from file
 finput = input('Input Data File:','s'); %ex. d:\t1.txt
