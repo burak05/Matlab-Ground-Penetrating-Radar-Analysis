@@ -3,4 +3,4 @@ This project dedicated to research in analyzing signal genereated from GPR devic
 
 Abount GPR: https://en.wikipedia.org/wiki/Ground-penetrating_radar
 
-Copyrights 2015 Sivarat Malapet all rights reserved.
+Copyright 2015 Sivarat Malapet all rights reserved.
